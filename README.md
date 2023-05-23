@@ -14,3 +14,7 @@ Reference:
 Learning operating system development using Linux kernel and Raspberry Pi
 
 [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os)
+
+A minimal operating system (2K LOC) on QEMU and a RISC-V board 
+
+[Egos-2000](https://github.com/yhzhang0128/egos-2000)
